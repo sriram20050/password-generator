@@ -6,4 +6,4 @@ Pass in an input of
   2. Number of special characters needed for your password
   3. Amount of numbers needed for your password(minimum of 3)
   
-The Program outputs a password as per your description
+The Program outputs a password as per your description.
