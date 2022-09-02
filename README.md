@@ -7,3 +7,4 @@ Pass in an input of
   3. Amount of numbers needed for your password(minimum of 3)
   
 The Program outputs a password as per your description.
+
